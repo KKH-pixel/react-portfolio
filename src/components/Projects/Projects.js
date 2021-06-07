@@ -12,22 +12,7 @@ import Placeholder from "../images/placeholder3.jpg";
 
 import "./style.css";
 
-// const useStyles = makeStyles({
-//   root: {
-//     maxWidth: 300,
-//     margin: "15px",
-//     padding: "20px",
-//     display: "center",
-//     color: "black",
-//   },
-//   media: {
-//     height: 90,
-//     color: "black",
-//   },
-// });
-
 export default function DisplayCard() {
-//   const classes = useStyles();
 
   return (
     <div>

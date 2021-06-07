@@ -1,4 +1,4 @@
-import React from "react"; 
+import React from "react";
 
 import "./style.css";
 
@@ -7,9 +7,9 @@ function Footer() {
     <div>
       <div class="footer">
         <p>&copy; Copyright 2021 K.K. Hunt</p>
+      </div>
     </div>
-  </div>
   );
 }
 
-export default Footer;
+export default Footer

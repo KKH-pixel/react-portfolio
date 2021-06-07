@@ -45,14 +45,14 @@ export default function NavBar() {
             <Link
               to="/projects"
               className={window.location.pathname === "/projects" ? "nav-link active" : "nav-link"}
-            > About </Link>
+            > Projects </Link>
           </MenuItem>
 
           <MenuItem onClick={handleClose}>
             <Link
               to="/about"
               className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
-            > Projects </Link>
+            > About </Link>
           </MenuItem>
 
           <MenuItem onClick={handleClose}>
