@@ -1,0 +1,10 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Audiowide', cursive; 
+    background-color: #95796b;
+    color: black;
+    text-align: center;
+}

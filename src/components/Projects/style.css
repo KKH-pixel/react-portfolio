@@ -1,0 +1,26 @@
+.background {
+   background-color: #18222b;
+}
+
+.g-4 {
+   --bs-gutter-x: 0rem;
+   --bs-gutter-y: 0rem;
+}
+
+.card {
+   margin-top: 30px;
+   margin-right: 15px;
+   margin-left: 15px;
+   ;
+}
+
+.card-title, .card-text, a, a:hover {
+   color: white;
+}
+
+/* .card.img.overlay {
+   background-color: darkslategray;
+   opacity: 60%;
+} */
+
+

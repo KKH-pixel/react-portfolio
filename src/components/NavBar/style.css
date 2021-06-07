@@ -1,0 +1,41 @@
+/* Notes
+Fonts:
+    font-family: 'Audiowide', cursive;
+    font-family: 'Bungee Hairline', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Share Tech Mono', monospace;
+
+Color Palette:
+    gunmetal: #18222b
+    sonic silver: 757982
+    beaver: 95796b
+    khaki web: bea88d
+    shadow blue: 6e88a3
+} */
+
+* {
+    color: #07080D;
+    font-family: 'Audiowide', cursive;
+}
+
+.styles {
+    background-color: #95796b;
+}
+
+.MuiMenu-list {
+    color: #07080D;
+    font-family: 'Audiowide', cursive; 
+    background-color: #95796b;  
+}
+
+.nav-link:focus, 
+.nav-link:hover, 
+a:hover, 
+.nav-link, 
+.nav-link:active, 
+a {
+    color: #07080D;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bold;
+    text-align: right;
+}
